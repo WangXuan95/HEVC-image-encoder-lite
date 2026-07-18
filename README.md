@@ -4,8 +4,8 @@
 
 **NBLI** (new-bee lossless image, **v0.4**) is a fast, better lossless compression algorithm, which support both **RGB 24-bit** and **Gray 8-bit** image. This repo provide:
 
-- **[fNBLI](./fNBLI.exe)** : The optimized NBLI, currently only provide executable file without source code.
-- **[NBLI](./src_NBLI)** : The prototype of NBLI, provide both executable file and source code.
+- **[fNBLI](./fNBLI.exe)** : The optimized fast NBLI
+- **[NBLI](./src_NBLI)** : The prototype of NBLI
 
 　
 
